@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "800762716277",
+    "firebase_url": "https://justplaytogether.firebaseio.com",
+    "project_id": "justplaytogether",
+    "storage_bucket": "justplaytogether.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800762716277:android:021d18db84a1be7164d83c",
+        "android_client_info": {
+          "package_name": "com.example.justplaytogether"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800762716277-tiu661j4lb5eb95fiquqd950cbtliqgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeAFNfo3jAxH_YlRamwwvL6uArGC8fpBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800762716277-tiu661j4lb5eb95fiquqd950cbtliqgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
